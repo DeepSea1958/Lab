@@ -1,0 +1,17 @@
+# Qt build directory
+build/
+
+# Qt auto generated files
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+
+# Executables
+*.exe
+
+# User-specific files
+*.user
+*.user.*
+
+# CMake / Make
+CMakeLists.txt.user
