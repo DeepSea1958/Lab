@@ -12,6 +12,7 @@
 ChatServer::ChatServer(QObject *parent)
     : QTcpServer(parent)
 {
+
     m_threadPool = new QThreadPool(this);
     m_threadPool->setMaxThreadCount(50);
 
