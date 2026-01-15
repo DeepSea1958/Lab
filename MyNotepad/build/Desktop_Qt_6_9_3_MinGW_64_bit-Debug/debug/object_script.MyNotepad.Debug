@@ -1,0 +1,12 @@
+debug/aboutdialog.o
+debug/codeedit.o
+debug/finddialog.o
+debug/main.o
+debug/mainwindow.o
+debug/replacedialog.o
+debug/qrc_res.o
+debug/moc_aboutdialog.o
+debug/moc_codeedit.o
+debug/moc_finddialog.o
+debug/moc_mainwindow.o
+debug/moc_replacedialog.o
